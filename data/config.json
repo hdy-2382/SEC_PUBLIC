@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "A동 증축",
+    "department": "인프라 기술팀",
+    "team": "김철수, 이영희",
+    "startDate": "2026-06-01",
+    "endDate": "2026-09-30",
+    "target": 360,
+    "errorLimit": 3,
+    "weeklyTargetExp": 2
+  }
+}

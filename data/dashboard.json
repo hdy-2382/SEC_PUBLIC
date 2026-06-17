@@ -1,0 +1,238 @@
+{
+  "generatedAt": "2026-06-15T05:12:27Z",
+  "source": "260601_양산평가.xlsx",
+  "daily": [
+    {
+      "date": "2026-06-01",
+      "personnel": "홍길동, 김철수",
+      "activity": "JOB 생성 - 픽업 - 적재 사이클 셋업",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": "초기 셋업, 안정"
+    },
+    {
+      "date": "2026-06-02",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 0,
+      "streak": 9,
+      "notes": "정상"
+    },
+    {
+      "date": "2026-06-03",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-03",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 15,
+      "errors": 1,
+      "streak": 14,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-03",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 15,
+      "errors": 0,
+      "streak": 15,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-04",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 2,
+      "streak": 6,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-04",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 0,
+      "streak": 9,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-04",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-04",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 1,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-05",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-05",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-05",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-05",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-06",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 15,
+      "errors": 0,
+      "streak": 15,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-06",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 15,
+      "errors": 0,
+      "streak": 15,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-06",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 15,
+      "errors": 1,
+      "streak": 14,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-07",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 1,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-07",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 0,
+      "streak": 9,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-08",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-08",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 1,
+      "streak": 7,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-09",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 8,
+      "errors": 0,
+      "streak": 8,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-10",
+      "personnel": "홍길동, 김철수",
+      "activity": "사이클 반복 안정성 검증",
+      "total": 9,
+      "errors": 0,
+      "streak": 9,
+      "notes": ""
+    }
+  ],
+  "errors": [
+    {
+      "no": 1,
+      "date": "2026-06-08",
+      "time": "14:32",
+      "cycle": 358,
+      "code": "ERR-001",
+      "type": "비전 인식 오류",
+      "detail": "픽업 대상 부품의 비전 좌표 인식 실패, 로봇 정지",
+      "cause": "조도 변화로 카메라 노출값 부적합 추정",
+      "action": "조명 LUX 재조정 + 비전 알고리즘 threshold 보정",
+      "result": "정상복귀",
+      "owner_sec": "",
+      "owner": "박영희",
+      "detailMore": "",
+      "images": []
+    },
+    {
+      "no": 2,
+      "date": "2026-06-17",
+      "time": "11:08",
+      "cycle": 953,
+      "code": "ERR-002",
+      "type": "그리퍼 그립 실패",
+      "detail": "부품 표면 마찰계수 편차로 그리핑 실패, 자동 정지",
+      "cause": "부품 표면 코팅 편차 추정",
+      "action": "그리퍼 압력 +5% 조정, 부품 표면 사전 검사 단계 추가",
+      "result": "정상복귀",
+      "owner_sec": "",
+      "owner": "홍길동",
+      "detailMore": "",
+      "images": []
+    }
+  ]
+}
